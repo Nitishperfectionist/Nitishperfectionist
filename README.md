@@ -23,3 +23,26 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitishperfectionist&show_icons=true&locale=en" alt="nitishperfectionist" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nitishperfectionist&" alt="nitishperfectionist" /></p>
+
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Nitishperfectionist" alt="" />
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nitishperfectionist&show_icons=true&theme=light&border_radius=8" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nitishperfectionist&theme=default&border_radius=8&color=#43BEE5" alt="stats-2" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Nitishperfectionist&show_icons=true&locale=en&layout=compact"     alt="stats-3"
+</p>
+
+
+
